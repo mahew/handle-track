@@ -1,2 +1,2 @@
 # handle-track
-a web app for tracking wanted twitter handles, which will track handles you want to use in the future and notify you if it becomes available 
+a web app for tracking twitter handles already used but you want to use in the future, notifying you if it becomes available 
